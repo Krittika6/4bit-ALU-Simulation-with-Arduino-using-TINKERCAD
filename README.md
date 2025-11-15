@@ -51,7 +51,8 @@ Pin mapping:
 
 ##DEMO EXAMPLE (for input 15 12 2)
 <img width="1335" height="814" alt="image" src="https://github.com/user-attachments/assets/15d40509-7f74-435f-92e1-70dd9317eb6b" />
-Output is 1100 and accordingly the 2LEDs are glowing
+Output is 1100 and accordingly the 2LEDs are glowing.
+
 ##Link to project:
 https://www.tinkercad.com/things/090CcpHiG6k/editel?sharecode=ebS35rnggtsrK1tRjXi-nFmAVOl_ZQzVzY3Af2YppIo
 
