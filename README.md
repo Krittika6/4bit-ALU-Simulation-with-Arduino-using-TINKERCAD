@@ -33,7 +33,7 @@ The circuit is built entirely in **Tinkercad Circuits**, using:
 |   3    | OR         | Bitwise OR         |
 |   4    | XOR        | Bitwise XOR        |
 
-## 🔌 Wiring Summary
+##  Wiring Summary
 Each LED:
 Arduino Pin → LED (anode) → LED (cathode) → 220Ω → GND
 
